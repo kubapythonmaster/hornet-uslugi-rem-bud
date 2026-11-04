@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kubapythonmaster.github.io/hornet-uslugi-rem-bud/sitemap.xml
